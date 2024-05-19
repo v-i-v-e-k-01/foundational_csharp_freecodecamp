@@ -1,0 +1,14 @@
+C:\Users\Home\Desktop\CsharpProjects\Mod4\bin\Debug\net8.0\Mod4.exe
+C:\Users\Home\Desktop\CsharpProjects\Mod4\bin\Debug\net8.0\Mod4.deps.json
+C:\Users\Home\Desktop\CsharpProjects\Mod4\bin\Debug\net8.0\Mod4.runtimeconfig.json
+C:\Users\Home\Desktop\CsharpProjects\Mod4\bin\Debug\net8.0\Mod4.dll
+C:\Users\Home\Desktop\CsharpProjects\Mod4\bin\Debug\net8.0\Mod4.pdb
+C:\Users\Home\Desktop\CsharpProjects\Mod4\obj\Debug\net8.0\Mod4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\CsharpProjects\Mod4\obj\Debug\net8.0\Mod4.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\CsharpProjects\Mod4\obj\Debug\net8.0\Mod4.AssemblyInfo.cs
+C:\Users\Home\Desktop\CsharpProjects\Mod4\obj\Debug\net8.0\Mod4.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\CsharpProjects\Mod4\obj\Debug\net8.0\Mod4.dll
+C:\Users\Home\Desktop\CsharpProjects\Mod4\obj\Debug\net8.0\refint\Mod4.dll
+C:\Users\Home\Desktop\CsharpProjects\Mod4\obj\Debug\net8.0\Mod4.pdb
+C:\Users\Home\Desktop\CsharpProjects\Mod4\obj\Debug\net8.0\Mod4.genruntimeconfig.cache
+C:\Users\Home\Desktop\CsharpProjects\Mod4\obj\Debug\net8.0\ref\Mod4.dll
