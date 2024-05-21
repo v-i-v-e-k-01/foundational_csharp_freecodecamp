@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\CsharpProjects\Mod5 Projects\Guided Project - Plan a Petting Zoo Visit\bin\Debug\net8.0\Guided Project - Plan a Petting Zoo Visit.exe
+C:\Users\Home\Desktop\CsharpProjects\Mod5 Projects\Guided Project - Plan a Petting Zoo Visit\bin\Debug\net8.0\Guided Project - Plan a Petting Zoo Visit.deps.json
+C:\Users\Home\Desktop\CsharpProjects\Mod5 Projects\Guided Project - Plan a Petting Zoo Visit\bin\Debug\net8.0\Guided Project - Plan a Petting Zoo Visit.runtimeconfig.json
+C:\Users\Home\Desktop\CsharpProjects\Mod5 Projects\Guided Project - Plan a Petting Zoo Visit\bin\Debug\net8.0\Guided Project - Plan a Petting Zoo Visit.dll
+C:\Users\Home\Desktop\CsharpProjects\Mod5 Projects\Guided Project - Plan a Petting Zoo Visit\bin\Debug\net8.0\Guided Project - Plan a Petting Zoo Visit.pdb
+C:\Users\Home\Desktop\CsharpProjects\Mod5 Projects\Guided Project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided Project - Plan a Petting Zoo Visit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\CsharpProjects\Mod5 Projects\Guided Project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided Project - Plan a Petting Zoo Visit.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\CsharpProjects\Mod5 Projects\Guided Project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided Project - Plan a Petting Zoo Visit.AssemblyInfo.cs
+C:\Users\Home\Desktop\CsharpProjects\Mod5 Projects\Guided Project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided Project - Plan a Petting Zoo Visit.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\CsharpProjects\Mod5 Projects\Guided Project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided Project - Plan a Petting Zoo Visit.sourcelink.json
+C:\Users\Home\Desktop\CsharpProjects\Mod5 Projects\Guided Project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided Project - Plan a Petting Zoo Visit.dll
+C:\Users\Home\Desktop\CsharpProjects\Mod5 Projects\Guided Project - Plan a Petting Zoo Visit\obj\Debug\net8.0\refint\Guided Project - Plan a Petting Zoo Visit.dll
+C:\Users\Home\Desktop\CsharpProjects\Mod5 Projects\Guided Project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided Project - Plan a Petting Zoo Visit.pdb
+C:\Users\Home\Desktop\CsharpProjects\Mod5 Projects\Guided Project - Plan a Petting Zoo Visit\obj\Debug\net8.0\Guided Project - Plan a Petting Zoo Visit.genruntimeconfig.cache
+C:\Users\Home\Desktop\CsharpProjects\Mod5 Projects\Guided Project - Plan a Petting Zoo Visit\obj\Debug\net8.0\ref\Guided Project - Plan a Petting Zoo Visit.dll
